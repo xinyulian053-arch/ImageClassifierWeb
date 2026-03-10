@@ -44,3 +44,7 @@ python app.py
 - **添加更多类别或支持自定义数据集**
 - **部署到 Render.com / Railway.app（免费层）**
 - **添加 Docker 支持**
+
+欢迎 fork、star 或提交 issue / PR 交流！
+创建时间：2026 年
+作者：Xinyu
